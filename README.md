@@ -1,3 +1,3 @@
-#fireBase_atsiskaitymas
+# fireBase_atsiskaitymas
 
-#####This explains how to create/read data using Google's Firebase database
+##### This explains how to create/read data using Google's Firebase database
